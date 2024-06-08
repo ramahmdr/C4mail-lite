@@ -8,5 +8,8 @@ $cd C4mail-lite
 
 $bash b00m.sh
 
+# Password
+password: bogorwanienteam
+
 # Disclaimer !
 everything the user does is not the responsibility of the tool maker.
